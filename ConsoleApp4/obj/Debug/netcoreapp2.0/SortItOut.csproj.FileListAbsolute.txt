@@ -1,0 +1,11 @@
+C:\Users\shirley\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\SortItOut.deps.json
+C:\Users\shirley\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\SortItOut.runtimeconfig.json
+C:\Users\shirley\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\SortItOut.runtimeconfig.dev.json
+C:\Users\shirley\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\SortItOut.dll
+C:\Users\shirley\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\SortItOut.pdb
+C:\Users\shirley\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\SortItOut.csprojAssemblyReference.cache
+C:\Users\shirley\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\SortItOut.csproj.CoreCompileInputs.cache
+C:\Users\shirley\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\SortItOut.AssemblyInfoInputs.cache
+C:\Users\shirley\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\SortItOut.AssemblyInfo.cs
+C:\Users\shirley\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\SortItOut.dll
+C:\Users\shirley\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\SortItOut.pdb

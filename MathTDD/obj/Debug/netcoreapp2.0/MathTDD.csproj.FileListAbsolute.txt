@@ -1,0 +1,15 @@
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\bin\Debug\netcoreapp2.0\MathTDD.deps.json
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\bin\Debug\netcoreapp2.0\MathTDD.runtimeconfig.json
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\bin\Debug\netcoreapp2.0\MathTDD.runtimeconfig.dev.json
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\bin\Debug\netcoreapp2.0\MathTDD.dll
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\obj\Debug\netcoreapp2.0\MathTDD.csprojAssemblyReference.cache
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\obj\Debug\netcoreapp2.0\MathTDD.csproj.CoreCompileInputs.cache
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\obj\Debug\netcoreapp2.0\MathTDD.AssemblyInfoInputs.cache
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\obj\Debug\netcoreapp2.0\MathTDD.AssemblyInfo.cs
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\bin\Debug\netcoreapp2.0\MathTDD.pdb
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\obj\Debug\netcoreapp2.0\MathTDD.dll
+C:\Users\shirley\source\repos\TDD_katas\MathTDD\obj\Debug\netcoreapp2.0\MathTDD.pdb

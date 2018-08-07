@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_practice", "TDD_practice\TDD_practice.csproj", "{7054849C-D4D2-46B8-A253-8E536C5CA4B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDD_practice", "TDD_practice\TDD_practice.csproj", "{7054849C-D4D2-46B8-A253-8E536C5CA4B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathTDD", "MathTDD\MathTDD.csproj", "{06055C46-232E-44C8-A0EE-BEB99A91842C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7054849C-D4D2-46B8-A253-8E536C5CA4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7054849C-D4D2-46B8-A253-8E536C5CA4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7054849C-D4D2-46B8-A253-8E536C5CA4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06055C46-232E-44C8-A0EE-BEB99A91842C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06055C46-232E-44C8-A0EE-BEB99A91842C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06055C46-232E-44C8-A0EE-BEB99A91842C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06055C46-232E-44C8-A0EE-BEB99A91842C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
