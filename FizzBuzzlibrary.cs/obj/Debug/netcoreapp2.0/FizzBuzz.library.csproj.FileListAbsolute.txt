@@ -1,0 +1,9 @@
+C:\Users\shirley\source\repos\FizzBuzz\FizzBuzzlibrary.cs\bin\Debug\netcoreapp2.0\FizzBuzz.library.deps.json
+C:\Users\shirley\source\repos\FizzBuzz\FizzBuzzlibrary.cs\bin\Debug\netcoreapp2.0\FizzBuzz.library.dll
+C:\Users\shirley\source\repos\FizzBuzz\FizzBuzzlibrary.cs\bin\Debug\netcoreapp2.0\FizzBuzz.library.pdb
+C:\Users\shirley\source\repos\FizzBuzz\FizzBuzzlibrary.cs\obj\Debug\netcoreapp2.0\FizzBuzz.library.csprojAssemblyReference.cache
+C:\Users\shirley\source\repos\FizzBuzz\FizzBuzzlibrary.cs\obj\Debug\netcoreapp2.0\FizzBuzz.library.csproj.CoreCompileInputs.cache
+C:\Users\shirley\source\repos\FizzBuzz\FizzBuzzlibrary.cs\obj\Debug\netcoreapp2.0\FizzBuzz.library.AssemblyInfoInputs.cache
+C:\Users\shirley\source\repos\FizzBuzz\FizzBuzzlibrary.cs\obj\Debug\netcoreapp2.0\FizzBuzz.library.AssemblyInfo.cs
+C:\Users\shirley\source\repos\FizzBuzz\FizzBuzzlibrary.cs\obj\Debug\netcoreapp2.0\FizzBuzz.library.dll
+C:\Users\shirley\source\repos\FizzBuzz\FizzBuzzlibrary.cs\obj\Debug\netcoreapp2.0\FizzBuzz.library.pdb

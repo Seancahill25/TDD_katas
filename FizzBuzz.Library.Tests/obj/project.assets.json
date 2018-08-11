@@ -1643,6 +1643,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "FizzBuzz.library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FizzBuzz.library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FizzBuzz.library.dll": {}
+        }
       }
     }
   },
@@ -5657,10 +5667,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "FizzBuzz.library/1.0.0": {
+      "type": "project",
+      "path": "../FizzBuzzlibrary.cs/FizzBuzz.library.csproj",
+      "msbuildProject": "../FizzBuzzlibrary.cs/FizzBuzz.library.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "FizzBuzz.library >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "NUnit >= 3.10.1",
@@ -5674,11 +5690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shirley\\source\\repos\\TDD_katas\\SortItOut.cs\\Sort.csproj",
-      "projectName": "Sort",
-      "projectPath": "C:\\Users\\shirley\\source\\repos\\TDD_katas\\SortItOut.cs\\Sort.csproj",
+      "projectUniqueName": "C:\\Users\\shirley\\source\\repos\\FizzBuzz\\FizzBuzz.Library.Tests\\FizzBuzz.Library.Tests.csproj",
+      "projectName": "FizzBuzz.Library.Tests",
+      "projectPath": "C:\\Users\\shirley\\source\\repos\\FizzBuzz\\FizzBuzz.Library.Tests\\FizzBuzz.Library.Tests.csproj",
       "packagesPath": "C:\\Users\\shirley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shirley\\source\\repos\\TDD_katas\\SortItOut.cs\\obj\\",
+      "outputPath": "C:\\Users\\shirley\\source\\repos\\FizzBuzz\\FizzBuzz.Library.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5696,7 +5712,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\shirley\\source\\repos\\FizzBuzz\\FizzBuzzlibrary.cs\\FizzBuzz.library.csproj": {
+              "projectPath": "C:\\Users\\shirley\\source\\repos\\FizzBuzz\\FizzBuzzlibrary.cs\\FizzBuzz.library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
